@@ -14,10 +14,10 @@ end
 def selection(num)
   if num = 1
     binding.pry
-     p "YUM YUM MUNCH MUNCH MUNCH"
+     puts "YUM YUM MUNCH MUNCH MUNCH"
   elsif num = 2
     binding.pry
-     p "HAM HAM HAM IN MY TUMMY"
+     puts "HAM HAM HAM IN MY TUMMY"
   end
 end
 
